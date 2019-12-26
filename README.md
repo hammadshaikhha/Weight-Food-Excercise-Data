@@ -3,13 +3,21 @@ This repository includes my personal data on weight, diet and exercise during a 
 
 My data is a example  of an average sedentary untrained overweight male transitioning into a healthier and more fit person over time. My height is 5 ft 8 and my year of birth is 1992. 
 
-# Descriptive Analysis of Data
+# Description of Data
+
+![Summary Statistics](/Figures/SummaryStatistics.png)
+
+![Mean Weight Across Months](/Figures/MeanWeightMonths.jpg)
+
+![Weight and Waist over time](/Figures/WeightWaistTimeSeries.jpg)
 
 
 # Progress Pictures
 
 
+
 # Lessons Learned
+
 
 
 # Repository Contribution Opportunities 
