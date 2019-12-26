@@ -32,14 +32,14 @@ Here is another set of less apples-apples comparison of full body photos.
 
 December 2018 (180+ lbs)             |  December 2019 (143 lbs)
 :-------------------------:|:-------------------------:
-![](/Figures/Hammad2018.png)  |  ![](/Figures/HammadDec2019.jph)
+![](/Figures/Hammad2018.jpg)  |  ![](/Figures/HammadDec2019.jpg)
 
 # Mindset
 Although I am no expert in weight loss or fitness (e.g. no formal academic training) I imagine some people may benefit from knowing my mindset during this weight loss journey:
-...* I made small changes over time to my regular routine (jump roping and cutting junk food) to transition into a healthier one.
-...* I didn't implement popular online weight loss tips that I didn't think were sustainable or worked with my schedule.
-...* Weight/fat loss is not that complicated. Its as simple as eating less and moving more holding other factors constant.
-...* My goals were based on moderate progression in weight loss and consistency in exercise rather than achieving a certain weight/physique at some future date.
+* I made small changes over time to my regular routine (jump roping and cutting junk food) to transition into a healthier one.
+* I didn't implement popular online weight loss tips that I didn't think were sustainable or worked with my schedule.
+* Weight/fat loss is not that complicated. Its as simple as eating less and moving more holding other factors constant.
+* My goals were based on moderate progression in weight loss and consistency in exercise rather than achieving a certain weight/physique at some future date.
 
 # Repository Contribution Opportunities 
 If you collected similar data over your fitness journey then consider adding it here. The repository can also benefit from additional analysis done on this data (e.g. important factors that contribute to weight loss). 
