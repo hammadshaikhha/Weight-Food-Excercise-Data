@@ -5,14 +5,30 @@ My data is a example  of an average sedentary untrained overweight male transiti
 
 # Description of Data
 
+The data consists of daily time series of weight, waist size, food consumption, and exercise from May 2019 and onwards. Summary statistics of key variables is shown below:
+
 ![Summary Statistics](/Figures/SummaryStatistics.png)
 
-![Mean Weight Across Months](/Figures/MeanWeightMonths.jpg)
+The range column suggests that I lost around 40 lbs and reduced my BMI by almost 7 points. I eat around 2 high calorie plates of food a day (lunch and dinner) and usually exercise for 50 minutes a day.
+
+I started dieted from July - November and then eating more to maintain my weight at around 145 lbs. My weight (lbs) and waist size (inches) throughout this fitness journey is shown below. 
 
 ![Weight and Waist over time](/Figures/WeightWaistTimeSeries.jpg)
 
+Given that weight can largely fluctuate when studied at the daily level, the following Figure illustrates a more stable time series on mean weights across months.
+![Mean Weight Across Months](/Figures/MeanWeightMonths.jpg)
+
+The above Table and Figures can be replicated using WeightAnalysis.do. Feel free to use the data WeightWaistFoodExcercise.csv to do your analysis in your favourite programming language. 
 
 # Progress Pictures
+Since pictures can vary greatly depending on lighting, clothing, hairstyle, camera filters, and many others factors, it can be hard to attribute changes in pictures across time mainly to dieting and exercise. In attempts to make apples-apple comparison over, I took a few pictures in a controlled lighting environment, wearing the same clothes, and with the same camera with no filters.
+
+June 12, 2019          |  August 9, 2019
+:-------------------------:|:-------------------------:
+![](/Figures/HammadJune122019.jpg)  |  ![](/Figures/HammadAug92019.jpg)
+
+
+Here is another set of less apples-apples comparison of full body photos.
 
 
 
