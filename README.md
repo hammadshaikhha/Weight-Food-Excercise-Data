@@ -9,7 +9,7 @@ The data consists of daily time series of weight, waist size, food consumption, 
 
 ![Summary Statistics](/Figures/SummaryStatistics.png)
 
-The range column suggests that I lost around 40 lbs and reduced my BMI by almost 7 points. I eat around 2 high calorie plates of food a day (lunch and dinner) and usually exercise for 50 minutes a day.
+The range column suggests that I lost around 40 lbs, reduced my waist by almost 7 inches, and BMI by around 6 points. I eat around 2 high calorie plates of food a day (lunch and dinner) and usually exercise for 50 minutes a day.
 
 I started dieting from July - November and then eating more to maintain my weight at around 145 lbs. My weight (lbs) and waist size (inches) throughout this fitness journey is shown below. 
 
