@@ -3,6 +3,9 @@ This repository includes my personal data on weight, diet and exercise during a 
 
 My data is a example of an average sedentary untrained overweight male transitioning into a healthier and more fit person over time. My height is 5 ft 8 and my year of birth is 1992. 
 
+[I have also uploaded a video on youtube illustrating the weight loss journey related to this data](https://www.youtube.com/watch?v=LrB7FkOWxvI&feature=youtu.be)
+
+
 # Description of Data
 
 The data consists of daily time series of weight, waist size, food consumption, and exercise from May 2019 and onwards. Summary statistics of key variables is shown below:
